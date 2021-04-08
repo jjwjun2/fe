@@ -1,0 +1,8 @@
+export { default as Sidebar } from '__user__/modules/Sidebar'
+export { default as UserAdmin } from '__user__/pages/UserAdmin'
+export { default as UserList } from '__user__/pages/UserList'
+export { default as UserListView } from '__user__/pages/UserListView'
+export { default as UserDetailPage } from '__user__/pages/UserDetailPage'
+export { default as UserLogin} from '__user__/components/UserLogin'
+export {default as UserRegister} from '__user__/components/UserRegister'
+export {default as UserLoginRegister} from '__user__/pages/UserLoginRegister'
